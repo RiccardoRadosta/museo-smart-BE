@@ -1,0 +1,318 @@
+[ {
+  "id" : 36554,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-27 01:11:52.72",
+  "printdate" : "2024/05/27 03:11:52",
+  "epoch" : 1.71677231272E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "type" : "D",
+    "id" : 58311,
+    "value" : 0.5,
+    "method" : "MANUAL",
+    "error" : 0.3
+  } ],
+  "html_mags" : "md = 0.5 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36554_0_D\"><span class=\"type\" id=\"magl_36554_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36554_0_D\">0.5 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101737,
+    "latitude" : 40.828167,
+    "longitude" : 14.151667,
+    "depth" : 1.28,
+    "string_latitude" : "40N 49.69",
+    "string_longitude" : "14E 09.10",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36551,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 22:53:17.94",
+  "printdate" : "2024/05/27 00:53:17",
+  "epoch" : 1.71676399794E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "type" : "D",
+    "id" : 58304,
+    "value" : 1.2,
+    "method" : "MANUAL",
+    "error" : 0.3
+  } ],
+  "html_mags" : "md = 1.2 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36551_0_D\"><span class=\"type\" id=\"magl_36551_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36551_0_D\">1.2 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101721,
+    "latitude" : 40.824833,
+    "longitude" : 14.152167,
+    "depth" : 0.95,
+    "string_latitude" : "40N 49.49",
+    "string_longitude" : "14E 09.13",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36552,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 22:52:47.22",
+  "printdate" : "2024/05/27 00:52:47",
+  "epoch" : 1.71676396722E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "type" : "D",
+    "id" : 58305,
+    "value" : 0.5,
+    "method" : "MANUAL",
+    "error" : 0.3
+  } ],
+  "html_mags" : "md = 0.5 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36552_0_D\"><span class=\"type\" id=\"magl_36552_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36552_0_D\">0.5 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101722,
+    "latitude" : 40.828333,
+    "longitude" : 14.158,
+    "depth" : 0.58,
+    "string_latitude" : "40N 49.70",
+    "string_longitude" : "14E 09.48",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36550,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 22:52:42.009",
+  "printdate" : "2024/05/27 00:52:42",
+  "epoch" : 1.716763962009E9,
+  "level" : "Automatico",
+  "class" : "automatico",
+  "location" : {
+    "id" : 101712,
+    "latitude" : 40.8152,
+    "longitude" : 14.0918,
+    "depth" : 0.43,
+    "string_latitude" : "40N 48.91",
+    "string_longitude" : "14E 05.51"
+  },
+  "year" : 2024
+}, {
+  "id" : 36553,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 22:51:57.519",
+  "printdate" : "2024/05/27 00:51:57",
+  "epoch" : 1.716763917519E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "type" : "D",
+    "id" : 58306,
+    "value" : 0.1,
+    "method" : "MANUAL",
+    "error" : 0.3
+  } ],
+  "html_mags" : "md = 0.1 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36553_0_D\"><span class=\"type\" id=\"magl_36553_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36553_0_D\">0.1 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101723,
+    "latitude" : 40.8315,
+    "longitude" : 14.1455,
+    "depth" : 1.66,
+    "string_latitude" : "40N 49.89",
+    "string_longitude" : "14E 08.73",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36548,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 15:35:18.329",
+  "printdate" : "2024/05/26 17:35:18",
+  "epoch" : 1.716737718329E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.7,
+    "id" : 58301,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.7 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36548_0_D\"><span class=\"type\" id=\"magl_36548_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36548_0_D\">0.7 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101706,
+    "latitude" : 40.839333,
+    "longitude" : 14.107333,
+    "depth" : 2.86,
+    "string_latitude" : "40N 50.36",
+    "string_longitude" : "14E 06.44",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36546,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 14:31:36.559",
+  "printdate" : "2024/05/26 16:31:36",
+  "epoch" : 1.716733896559E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.2,
+    "id" : 58298,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.2 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36546_0_D\"><span class=\"type\" id=\"magl_36546_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36546_0_D\">0.2 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101701,
+    "latitude" : 40.834167,
+    "longitude" : 14.137667,
+    "depth" : 1.05,
+    "string_latitude" : "40N 50.05",
+    "string_longitude" : "14E 08.26",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36547,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 14:28:13.549",
+  "printdate" : "2024/05/26 16:28:13",
+  "epoch" : 1.716733693549E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.8,
+    "id" : 58297,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.8 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36547_0_D\"><span class=\"type\" id=\"magl_36547_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36547_0_D\">0.8 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101700,
+    "latitude" : 40.831333,
+    "longitude" : 14.1495,
+    "depth" : 1.84,
+    "string_latitude" : "40N 49.88",
+    "string_longitude" : "14E 08.97",
+    "quality" : "C"
+  },
+  "year" : 2024
+}, {
+  "id" : 36544,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 14:19:43.15",
+  "printdate" : "2024/05/26 16:19:43",
+  "epoch" : 1.71673318315E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.3,
+    "id" : 58295,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.3 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36544_0_D\"><span class=\"type\" id=\"magl_36544_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36544_0_D\">0.3 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101698,
+    "latitude" : 40.831333,
+    "longitude" : 14.147667,
+    "depth" : 1.89,
+    "string_latitude" : "40N 49.88",
+    "string_longitude" : "14E 08.86",
+    "quality" : "C"
+  },
+  "year" : 2024
+}, {
+  "id" : 36545,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 14:19:26.049",
+  "printdate" : "2024/05/26 16:19:26",
+  "epoch" : 1.716733166049E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.1,
+    "id" : 58294,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.1 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36545_0_D\"><span class=\"type\" id=\"magl_36545_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36545_0_D\">0.1 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101697,
+    "latitude" : 40.828667,
+    "longitude" : 14.140667,
+    "depth" : 1.4,
+    "string_latitude" : "40N 49.72",
+    "string_longitude" : "14E 08.44",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36543,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 14:13:12.13",
+  "printdate" : "2024/05/26 16:13:12",
+  "epoch" : 1.71673279213E9,
+  "level" : "Rivisto",
+  "class" : "rivisto",
+  "magnitudos" : [ {
+    "error" : 0.3,
+    "value" : 0.7,
+    "id" : 58293,
+    "method" : "MANUAL",
+    "type" : "D"
+  } ],
+  "html_mags" : "md = 0.7 &plusmn; 0.3",
+  "split_mags" : "<span id=\"magnitudos_36543_0_D\"><span class=\"type\" id=\"magl_36543_0_D\">m<sub>d</sub></span> = <span class=\"value\" id=\"magp_36543_0_D\">0.7 &plusmn; 0.3</span></span>",
+  "location" : {
+    "id" : 101696,
+    "latitude" : 40.828167,
+    "longitude" : 14.140167,
+    "depth" : 1.07,
+    "string_latitude" : "40N 49.69",
+    "string_longitude" : "14E 08.41",
+    "quality" : "B"
+  },
+  "year" : 2024
+}, {
+  "id" : 36542,
+  "type" : "earthquake",
+  "area" : "flegrei",
+  "date" : "2024-05-26 13:10:44.789",
+  "printdate" : "2024/05/26 15:10:44",
+  "epoch" : 1.716729044789E9,
+  "level" : "Automatico",
+  "class" : "automatico",
+  "location" : {
+    "id" : 101689,
+    "latitude" : 40.739667,
+    "longitude" : 14.329833,
+    "depth" : 1.1,
+    "string_latitude" : "40N 44.38",
+    "string_longitude" : "14E 19.79",
+    "quality" : "D"
+  },
+  "year" : 2024
+} ]
